@@ -1,0 +1,2 @@
+# nativescript
+nativescript-angular projects
